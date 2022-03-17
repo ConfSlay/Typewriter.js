@@ -1,5 +1,5 @@
 
-HOW DO THIS WORKS :
+HOW DOES THIS WORK :
 	
 	1) You need :
 		- one or more html elements with class="inputTypewriter"
